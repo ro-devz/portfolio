@@ -12,7 +12,7 @@ branding:
   label: Docs
 
 links:
-- text: Getting Started
+- text: Home
   link: https://retype.com/guides/getting-started/
 
 footer:
