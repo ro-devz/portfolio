@@ -1,21 +1,22 @@
 ---
-order: 99
+order: 98
 ---
 # 🛡️ Root Me
 
 Here is a summary of my activity on Root-Me :
 
-## 🧠 Root-Me – Statistics
+[!button size="m" icon="link" variant="light" text="Root-me Profile"](https://www.root-me.org/https://www.root-me.org/Rdvz)
+
+---
 
 ### 👤 General Information
 
 | Field | Value |
 |-------|--------|
 | **Pseudo** | **Romane** |
-| **Global rank** | **** |
-| **Total score** | **** |
-| **Challenges solved** | **** |
-
+| **Total score** | **505** |
+| **Challenges solved** | **41** |
+| **Global rank** | **33042** |
 
 
 ## 📊 Progress Overview
@@ -36,8 +37,8 @@ Here is a summary of my activity on Root-Me :
 | **TOTAL**                                     | **<span id="total-done">0</span>** | **0** | **<span id="total-total">0</span>** | <span id="total-progress"></span> |
 
 
-🔗 Link
-    Root-Me profile : https://www.root-me.org/Rdvz
+
+
 
 <script>
 function updateProgressBars() {
