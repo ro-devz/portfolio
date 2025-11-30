@@ -14,25 +14,25 @@ Here is a summary of my activity on Root-Me :
 | Field | Value |
 |-------|--------|
 | **Pseudo** | **Romane** |
-| **Total score** | **505** |
+| **Total score** | **540** |
 | **Challenges solved** | **41** |
-| **Global rank** | **33042** |
+| **Global rank** | **30883** |
 
 
 ## 📊 Progress Overview
 
 | Category | Completed | In Progress | Total | Progress |
 |---------|-----------|-------------|--------|----------|
-| **App - Script**      | 6  | 0 | 33  | <span class="auto-progress" data-done="6" data-total="50"></span> |
+| **App - Script**      | 9  | 0 | 33  | <span class="auto-progress" data-done="9" data-total="50"></span> |
 | **App - Système**   | 0  | 0 | 93  | <span class="auto-progress" data-done="0" data-total="97"></span> |
 | **Cracking**           | 3  | 0 | 70  | <span class="auto-progress" data-done="3" data-total="77"></span> |
 | **Cryptanalyse**     | 0  | 0 | 75  | <span class="auto-progress" data-done="0" data-total="77"></span> |
 | **Forensic**          | 2  | 0 | 44  | <span class="auto-progress" data-done="2" data-total="44"></span> |
 | **Programmation**  | 0  | 0 | 29  | <span class="auto-progress" data-done="0" data-total="28"></span> |
 | **Réaliste**          | 0  | 0 | 62  | <span class="auto-progress" data-done="0" data-total="62"></span> |
-| **Réseau**          | 12  | 0 | 35  | <span class="auto-progress" data-done="12" data-total="35"></span> |
+| **Réseau**          | 11  | 0 | 35  | <span class="auto-progress" data-done="11" data-total="35"></span> |
 | **Stéganographie** | 5  | 0 | 24  | <span class="auto-progress" data-done="5" data-total="24"></span> |
-| **Web - Client**       | 11 | 0 | 42  | <span class="auto-progress" data-done="11" data-total="42"></span> |
+| **Web - Client**       | 12 | 0 | 42  | <span class="auto-progress" data-done="12" data-total="42"></span> |
 | **Web - Serveur**    | 2  | 0 | 97 | <span class="auto-progress" data-done="2" data-total="109"></span> |
 | **TOTAL**                                     | **<span id="total-done">0</span>** | **0** | **<span id="total-total">0</span>** | <span id="total-progress"></span> |
 
