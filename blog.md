@@ -73,18 +73,6 @@ I continued to work at Apside for my first year of Alternance. My responsibiliti
 * Documented procedures, backup strategies, and administration guidelines
 
 ---
-
-### Ongoing Projects
-
-* **Cybersecurity Guide Development** – Building a knowledge base for tools and techniques  
-* **Research Interests**:  
-  * AI-powered threat detection  
-  * Adversarial machine learning  
-  * Quantum-resistant cryptography  
-  * Automated security operations  
-
----
-
 ### Technical Skills
 
 * **Programming** – Python, C, C++, C#, Java, JavaScript, Bash, SQL, PowerShell, PHP, HTML/CSS, Markdown  
@@ -133,8 +121,7 @@ I continued to work at Apside for my first year of Alternance. My responsibiliti
 I aim to continue developing expertise in **cybersecurity analysis**, particularly in:
 
 * Penetration testing and threat hunting  
-* Reverse engineering and malware analysis  
-* Security analytics with AI integration  
+* Reverse engineering and malware analysis    
 * Quantum-resilient cryptography  
 
 Certifications planned this year: **SC-100** and others as my studies progress.  
